@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<product id="PO1">
+    <description>myProduct</description>
+    <imageUrl>https://blank.blank</imageUrl>
+    <price>18.95</price>
+    <createdBy>
+        <email>hello@world.com</email>
+        <id>10</id>
+        <name>Example Name</name>
+    </createdBy>
+</product>
